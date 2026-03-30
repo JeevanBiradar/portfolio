@@ -15,11 +15,11 @@ Personal portfolio website for Jeevan Biradar, focused on Java full stack develo
    `npm install`
 2. Rebuild Tailwind CSS after class changes:
    `npm run build:css`
-3. Open `code.html` in the browser.
+3. Open `index.html` in the browser.
 
 ## Project files
 
-- `code.html` - main site markup
+- `index.html` - main site markup
 - `styles.css` - custom styles and interactions
 - `script.js` - scroll, nav, and mobile menu behavior
 - `tailwind.config.js` - local Tailwind config
